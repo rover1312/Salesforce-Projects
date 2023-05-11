@@ -1,0 +1,117 @@
+{
+    "Fields":
+    [
+        {
+            "key":
+            {
+                "entity": "Name:",
+                "entity_type":
+                [],
+                "text":
+                [
+                    "Name:"
+                ]
+            }
+        },
+        {
+            "key":
+            {
+                "entity": "Date of Birth:",
+                "entity_type":
+                [],
+                "text":
+                [
+                    "Date of Birth:"
+                ]
+            }
+        },
+        {
+            "key":
+            {
+                "entity": "Address:",
+                "entity_type":
+                [],
+                "text":
+                [
+                    "Address:"
+                ]
+            }
+        },
+        {
+            "key":
+            {
+                "entity": "Fax:",
+                "entity_type":
+                [],
+                "text":
+                [
+                    "Fax:"
+                ]
+            }
+        },
+        {
+            "key":
+            {
+                "entity": "NOTE:",
+                "entity_type":
+                [],
+                "text":
+                [
+                    "NOTE:"
+                ]
+            }
+        },
+        {
+            "key":
+            {
+                "entity": "FAX NO.",
+                "entity_type":
+                [],
+                "text":
+                [
+                    "FAX NO."
+                ]
+            }
+        },
+        {
+            "key":
+            {
+                "entity": "FAX NUMBER:",
+                "entity_type":
+                [],
+                "text":
+                [
+                    "FAX NUMBER:"
+                ]
+            }
+        },
+        {
+            "key":
+            {
+                "entity": "PHONE NUMBER:",
+                "entity_type":
+                [],
+                "text":
+                [
+                    "PHONE NUMBER:"
+                ]
+            }
+        },
+        {
+            "key":
+            {
+                "entity": "SENDER /PHONE NUMBER:",
+                "entity_type":
+                [],
+                "text":
+                [
+                    "SENDER /PHONE NUMBER:"
+                ]
+            }
+        }
+    ],
+    "Tables":
+    [],
+    "AutomaticallyRecognizeTables": false,
+    "Version": "3.0"
+}
